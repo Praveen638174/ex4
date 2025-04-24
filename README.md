@@ -1,5 +1,7 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 24/04/2025
+## Name: Praveen Raj G
+## Register No: 212224110062
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,7 +27,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 #map.html
 <head>
     <title>My City</title>
@@ -38,12 +40,13 @@ Execute the programs and publish them.
         <font color="blue"><center><b>Praveen Raj G (212224040245)</b></font></center>
     </h3>
     <center>
-        <img src="kk.PNG" usemap="#MyCity" height="1083" width="1908">
+        <img src="c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-04-22 161059.png" usemap="#MyCity" height="1083" width="1908">
         <map name="MyCity">
             <area shape="rect" coords="970,720,1101,817" href="home.html" title="My Home Town">
             <area shape="rect" coords="698,856,938,993" href="movie.html" title="Rohini Theatre">
             <area shape="rect" coords="1062,632,1250,725" href="food.html" title="Kora Food Street">
             
+        </map>
     </center>
 </body>
 </html>
@@ -123,13 +126,15 @@ Execute the programs and publish them.
     </html>
 
 
+
 ## OUTPUT
 
-praveen/mapapp/static/output/Screenshot 2025-04-24 190907.png
-praveen/mapapp/static/output/Screenshot 2025-04-24 190931.png
-praveen/mapapp/static/output/Screenshot 2025-04-24 191003.png
-praveen/mapapp/static/output/Screenshot 2025-04-24 191021.png
+![Screenshot 2025-04-24 190907](https://github.com/user-attachments/assets/d3753ccd-28b2-44ef-afcf-29b34907a353)
+![Screenshot 2025-04-24 190931](https://github.com/user-attachments/assets/6e8f9d4a-d275-4945-ba77-7c1d273e531b)
+![Screenshot 2025-04-24 191003](https://github.com/user-attachments/assets/dda8d5c7-6a9d-4a11-b6f8-b560132ae65a)
+![Screenshot 2025-04-24 191021](https://github.com/user-attachments/assets/f1c87674-747a-4f6f-964e-4a0ba21946df)
 
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
+
