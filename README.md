@@ -1,7 +1,7 @@
 # Ex04 Places Around Me
 ## Date: 24/04/2025
 ## Name: Praveen Raj G
-## Register No: 212224110062
+## Register No: 212224040245
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -124,6 +124,7 @@ Execute the programs and publish them.
     </p>
     </body>
     </html>
+```
 
 
 
